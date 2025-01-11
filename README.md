@@ -10,9 +10,9 @@ In recent years, reversible data hiding in encrypted domain (RDH-ED) has garnere
 
 ## Download resources
 
-# 1、 [The Stanford 3D Scanning Repository](https://graphics.stanford.edu/data/3Dscanrep/)
-# 2、 [A Benchmark for 3D Mesh Segmentation](https://segeval.cs.princeton.edu/)
-# 3 、[Princeton Segmentation Benchmark dataset](https://pan.baidu.com/s/1NmNVF_ZiihlNJNuA4yQ9Eg?pwd=dr50)
+**1、**[The Stanford 3D Scanning Repository](https://graphics.stanford.edu/data/3Dscanrep/)
+**2、**[A Benchmark for 3D Mesh Segmentation](https://segeval.cs.princeton.edu/)
+**3、**[Princeton Segmentation Benchmark dataset](https://pan.baidu.com/s/1NmNVF_ZiihlNJNuA4yQ9Eg?pwd=dr50)
 
 
 ## How to cite our paper
