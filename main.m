@@ -57,7 +57,7 @@ else
 end
 
 %Compute capacity
-disp("The embedding capacity is "+ size(message,2)/num_vert  + " bpp");
+disp("The embedding capacity is "+ size(message,2)/num_vert  + " bpv");
 % Compute HausdorffDist
 hd = HausdorffDist(vertex_tran,vertex3_tran,1,0);
 % Compute SNR
